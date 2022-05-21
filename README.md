@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irsyadmaulana85
-- 👀 I’m interested in data visual
+- 👀 I’m interested in creating visualization from data
 - 🌱 I’m currently learning python, tableau, sql
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me from my email
